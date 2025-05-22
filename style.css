@@ -10,44 +10,56 @@ margin-right: 30%;
 }
 
 
-h1 {text-align: center;
+h6 {text-align: center;
     font-size: 250%;
+    background-color: rgb(0, 0, 0);
+    color:rgb(228, 194, 5);}
+    h7 {text-align: center;
+        font-size: 150%;
+        color:rgb(0, 0, 0);}
+        h8 {text-align: center;
+            font-size: 100%;
+            color:rgb(0, 0, 0);}
+
+
+h1 {text-align: center;
+    font-size: 170%;
     background-color: aqua;
     color:rgb(228, 194, 5);}
-    #ima1 {width: 14%;
-        margin-left: 15%;
+    #ima1 {width: 50%;
+        margin-left: 25%;
         }
 
-h2 {font-size: 200%;
+h2 {font-size: 170%;
     background-color: beige;
     color:rgb(148, 51, 204);
     text-align: center;}
-    #ima2 {width: 14%;
-        margin-left: 15%;
+    #ima2 {width: 50%;
+        margin-left: 25%;
         }
 
-h3 {font-size: 200%;
+h3 {font-size: 170%;
     background-color: blanchedalmond;
     color:rgb(161, 233, 255);
     text-align: center}    
-    #ima3 {width: 14%;
-        margin-left: 15%;
+    #ima3 {width: 50%;
+        margin-left: 25%;
         }
 
-h4 {font-size: 200%;
+h4 {font-size: 170%;
     background-color: blueviolet;
     color: rgb(228, 69, 69);
     text-align: center}
-    #ima4 {width: 14%;
-        margin-left: 15%;
+    #ima4 {width: 50%;
+        margin-left: 25%;
         }
 
-h5 {font-size: 200%;
+h5 {font-size: 170%;
     background-color: blueviolet;
     color: rgb(228, 69, 69);
     text-align: center}
-    #ima5 {width: 14%;
-        margin-left: 15%;
+    #ima5 {width: 50%;
+        margin-left: 25%;
         }
 
 
